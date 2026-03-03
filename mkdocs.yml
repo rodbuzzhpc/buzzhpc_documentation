@@ -157,7 +157,6 @@ nav:
     - Object Storage:
       - 'Overview': 'services/object-storage/overview.md'
       - 'Configure & Use': 'services/object-storage/config_object_storage.md'
-  - AI/ML Apps:
     - 'Notebooks': 'apps/notebook/config_nb.md'
   - Billing & Usage: billing/usage.md
   - Administration:
