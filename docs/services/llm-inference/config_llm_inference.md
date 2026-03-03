@@ -128,8 +128,6 @@ The detail view shows:
 
 Click the **Chat** tab to interact with your deployed model directly in the browser.
 
-![Chat Interface](img/llm-inference/llm_chat.png)
-
 ---
 
 ### Using the Chat Interface
@@ -144,8 +142,6 @@ Click the **Chat** tab to interact with your deployed model directly in the brow
 | **Canvas** | Open in expanded view |
 
 The AI assistant will respond to your queries in real-time. Conversation history is maintained during your session.
-
-![Chat Conversation](img/llm-inference/llm_chat_conversation.png)
 
 ---
 
