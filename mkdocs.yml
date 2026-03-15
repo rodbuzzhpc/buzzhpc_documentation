@@ -158,6 +158,15 @@ nav:
       - 'Overview': 'services/object-storage/overview.md'
       - 'Configure & Use': 'services/object-storage/config_object_storage.md'
     - 'Notebooks': 'apps/notebook/config_nb.md'
+  - Terraform:
+    - 'Getting Started': 'terraform/getting-started.md'
+    - 'GPU Virtual Machines': 'terraform/gpu-vm.md'
+    - 'Managed Kubernetes': 'terraform/kubernetes.md'
+    - 'DevPods': 'terraform/devpods.md'
+    - 'Jupyter Notebooks': 'terraform/jupyter-notebook.md'
+    - 'LLM Inference': 'terraform/llm-inference.md'
+    - 'Object Storage': 'terraform/object-storage.md'
+    - 'Shared Filesystem': 'terraform/shared-filesystem.md'
   - Billing & Usage: billing/usage.md
   - Administration:
     - 'Overview': 'administration/overview.md'
